@@ -2,7 +2,6 @@
 // OMG FIRST COMMENT!!!11!
 // Copyright 2013 Toby Zerner, Simon Zerner
 // This file is part of esoTalk. Please see the included license file for usage information.
-// My first GitHub push
 
 define("IN_ESOTALK", 1);
 
